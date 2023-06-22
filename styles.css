@@ -6,10 +6,10 @@
 
 @keyframes moveToRight {
     0% {
-      transform: translate(3000px);
+      transform: translate(100%);
     }
     100% {
-      transform: translate(0px);
+      transform: translate(0%);
     }
   }
 
